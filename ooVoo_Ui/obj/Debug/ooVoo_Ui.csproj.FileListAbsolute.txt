@@ -1,0 +1,12 @@
+C:\Users\geomi\source\repos\ooVoo_Ui\ooVoo_Ui\bin\Debug\ooVoo_Ui.exe.config
+C:\Users\geomi\source\repos\ooVoo_Ui\ooVoo_Ui\bin\Debug\ooVoo_Ui.exe
+C:\Users\geomi\source\repos\ooVoo_Ui\ooVoo_Ui\bin\Debug\ooVoo_Ui.pdb
+C:\Users\geomi\source\repos\ooVoo_Ui\ooVoo_Ui\obj\Debug\ooVoo_Ui.Form1.resources
+C:\Users\geomi\source\repos\ooVoo_Ui\ooVoo_Ui\obj\Debug\ooVoo_Ui.Properties.Resources.resources
+C:\Users\geomi\source\repos\ooVoo_Ui\ooVoo_Ui\obj\Debug\ooVoo_Ui.csproj.GenerateResource.Cache
+C:\Users\geomi\source\repos\ooVoo_Ui\ooVoo_Ui\obj\Debug\ooVoo_Ui.csproj.CoreCompileInputs.cache
+C:\Users\geomi\source\repos\ooVoo_Ui\ooVoo_Ui\obj\Debug\ooVoo_Ui.exe
+C:\Users\geomi\source\repos\ooVoo_Ui\ooVoo_Ui\obj\Debug\ooVoo_Ui.pdb
+C:\Users\geomi\source\repos\ooVoo_Ui\ooVoo_Ui\obj\Debug\ooVoo_Ui.UserControls.UCcontacts.resources
+C:\Users\geomi\source\repos\ooVoo_Ui\ooVoo_Ui\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\geomi\source\repos\ooVoo_Ui\ooVoo_Ui\obj\Debug\ooVoo_Ui.csprojResolveAssemblyReference.cache
